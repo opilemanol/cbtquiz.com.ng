@@ -1,0 +1,64 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Subjects catalog (readable by all candidates, modifiable by admin)
+    match /subjects/{subjectId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Topics catalog
+    match /topics/{topicId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Question bank
+    match /questions/{questionId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Candidate exam attempts
+    match /examAttempts/{attemptId} {
+      allow read, write: if true;
+    }
+
+    // Student error reports
+    match /reports/{reportId} {
+      allow create: if true;
+      allow read, update, delete: if true;
+    }
+
+    // Settings
+    match /settings/{settingId} {
+      allow read: if true;
+      allow write: if true;
+    }
+
+    // Single-device access entitlements
+    match /deviceAccess/{deviceId} {
+      allow read: if true;
+      allow create: if request.resource.data.deviceId == deviceId;
+      allow update: if request.resource.data.deviceId == resource.data.deviceId
+                    && request.resource.data.deviceFingerprint == resource.data.deviceFingerprint
+                    && request.resource.data.deviceSecretHash == resource.data.deviceSecretHash;
+    }
+
+    // Paystack payment transactions bound strictly to a single device
+    match /paymentTransactions/{reference} {
+      allow read: if true;
+      allow create: if request.resource.data.reference == reference;
+      allow update: if request.resource.data.deviceId == resource.data.deviceId
+                    && request.resource.data.deviceFingerprint == resource.data.deviceFingerprint
+                    && request.resource.data.deviceSecretHash == resource.data.deviceSecretHash;
+    }
+
+    // Paystack payment webhook lock
+    match /paymentWebhooks/{reference} {
+      allow read: if true;
+      allow create: if request.resource.data.reference == reference;
+      allow update: if request.resource.data.deviceId == resource.data.deviceId;
+    }
+  }
+}

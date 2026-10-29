@@ -1,0 +1,88 @@
+{
+  "entities": {
+    "Question": {
+      "title": "Question",
+      "description": "A single examination question in the JAMB CBT question bank",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for the question"
+        },
+        "subjectId": {
+          "type": "string",
+          "description": "Canonical subject identifier (e.g. mathematics, english)"
+        },
+        "subjectName": {
+          "type": "string",
+          "description": "Display name of the subject"
+        },
+        "topicId": {
+          "type": "string",
+          "description": "Associated topic identifier"
+        },
+        "topicName": {
+          "type": "string",
+          "description": "Associated topic display name"
+        },
+        "questionText": {
+          "type": "string",
+          "description": "Full text of the question including mathematical or scientific formatting"
+        },
+        "passage": {
+          "type": "string",
+          "description": "Optional comprehension reading passage"
+        },
+        "options": {
+          "type": "array",
+          "description": "Array of multiple choice alternative options"
+        },
+        "correctAnswerIndex": {
+          "type": "number",
+          "description": "Zero-based index of the correct option (0-3)"
+        },
+        "solution": {
+          "type": "string",
+          "description": "Detailed explanation and step-by-step worked solution"
+        },
+        "year": {
+          "type": "string",
+          "description": "Examination year or series"
+        },
+        "examType": {
+          "type": "string",
+          "description": "Examination board type (e.g. JAMB UTME)"
+        },
+        "active": {
+          "type": "boolean",
+          "description": "Whether the question is enabled"
+        }
+      },
+      "required": ["id", "subjectId", "questionText", "options", "correctAnswerIndex"]
+    },
+    "ExamAttempt": {
+      "title": "ExamAttempt",
+      "description": "Completed student examination result record",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "candidateUsername": { "type": "string" },
+        "totalScore": { "type": "number" },
+        "scaledScore": { "type": "number" },
+        "percentage": { "type": "number" },
+        "submittedAt": { "type": "string" }
+      },
+      "required": ["id", "candidateUsername", "totalScore", "percentage"]
+    }
+  },
+  "firestore": {
+    "/questions/{questionId}": {
+      "schema": "Question",
+      "description": "Central collection of CBT questions stored and queried live in Firestore"
+    },
+    "/examAttempts/{attemptId}": {
+      "schema": "ExamAttempt",
+      "description": "Candidate test session results"
+    }
+  }
+}

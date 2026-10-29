@@ -1,0 +1,6 @@
+{
+  "name": "JAMB UTME CBT Practice 2027",
+  "description": "Production-ready Nigerian JAMB UTME Computer-Based Test (CBT) Practice application featuring realistic exam workstation, past questions, dynamic subjects, live timer, and detailed solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

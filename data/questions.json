@@ -1,0 +1,3402 @@
+[
+  {
+    "id": "acc_01",
+    "subject": "accounting",
+    "question": "The fundamental accounting equation is expressed as:",
+    "questionText": "The fundamental accounting equation is expressed as:",
+    "options": [
+      "Assets = Capital + Liabilities",
+      "Assets = Liabilities - Capital",
+      "Capital = Assets + Liabilities",
+      "Liabilities = Assets + Capital"
+    ],
+    "correctAnswer": "Assets = Capital + Liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "Assets must always equal total claims against them: owners' equity (capital) plus outside liabilities.",
+    "solution": "Assets must always equal total claims against them: owners' equity (capital) plus outside liabilities.",
+    "year": "JAMB 2021"
+  },
+  {
+    "id": "acc_02",
+    "subject": "accounting",
+    "question": "The book of original entry used to record all credit purchases of trading merchandise is the:",
+    "questionText": "The book of original entry used to record all credit purchases of trading merchandise is the:",
+    "options": [
+      "Purchases day book (journal)",
+      "Purchases returns book",
+      "Cash book",
+      "General ledger"
+    ],
+    "correctAnswer": "Purchases day book (journal)",
+    "correctAnswerIndex": 0,
+    "explanation": "The purchases day book specifically logs invoices for credit purchases of inventory items.",
+    "solution": "The purchases day book specifically logs invoices for credit purchases of inventory items.",
+    "year": "JAMB 2022"
+  },
+  {
+    "id": "acc_03",
+    "subject": "accounting",
+    "question": "Which of the following errors will cause the trial balance totals not to agree?",
+    "questionText": "Which of the following errors will cause the trial balance totals not to agree?",
+    "options": [
+      "Casting (mathematical addition) error in the sales ledger",
+      "Error of omission",
+      "Error of commission",
+      "Error of principle"
+    ],
+    "correctAnswer": "Casting (mathematical addition) error in the sales ledger",
+    "correctAnswerIndex": 0,
+    "explanation": "Single-sided arithmetic errors or incorrect column additions prevent the debit and credit columns from balancing.",
+    "solution": "Single-sided arithmetic errors or incorrect column additions prevent the debit and credit columns from balancing.",
+    "year": "JAMB 2020"
+  },
+  {
+    "id": "acc_04",
+    "subject": "accounting",
+    "question": "An error where a transaction is posted to the wrong class of account (e.g. motor repairs debited to motor vehicles asset account) is an:",
+    "questionText": "An error where a transaction is posted to the wrong class of account (e.g. motor repairs debited to motor vehicles asset account) is an:",
+    "options": [
+      "error of principle",
+      "error of commission",
+      "error of original entry",
+      "compensating error"
+    ],
+    "correctAnswer": "error of principle",
+    "correctAnswerIndex": 0,
+    "explanation": "Errors of principle violate fundamental accounting rules by mixing revenue and capital expenditure.",
+    "solution": "Errors of principle violate fundamental accounting rules by mixing revenue and capital expenditure.",
+    "year": "JAMB 2023"
+  },
+  {
+    "id": "acc_05",
+    "subject": "accounting",
+    "question": "In a Bank Reconciliation Statement, unpresented cheques are cheques that have been:",
+    "questionText": "In a Bank Reconciliation Statement, unpresented cheques are cheques that have been:",
+    "options": [
+      "drawn and recorded in the cash book but not yet presented to the bank for payment",
+      "credited by the bank but not in cash book",
+      "dishonored due to insufficient funds",
+      "deposited but not cleared"
+    ],
+    "correctAnswer": "drawn and recorded in the cash book but not yet presented to the bank for payment",
+    "correctAnswerIndex": 0,
+    "explanation": "Unpresented cheques are issued to payees who have not yet cashed them at the bank.",
+    "solution": "Unpresented cheques are issued to payees who have not yet cashed them at the bank.",
+    "year": "JAMB 2019"
+  },
+  {
+    "id": "acc_06",
+    "subject": "accounting",
+    "question": "Under the straight-line method, calculate annual depreciation on machinery costing ₦200,000 with a salvage value of ₦20,000 over 5 years.",
+    "questionText": "Under the straight-line method, calculate annual depreciation on machinery costing ₦200,000 with a salvage value of ₦20,000 over 5 years.",
+    "options": [
+      "₦36,000",
+      "₦40,000",
+      "₦44,000",
+      "₦32,000"
+    ],
+    "correctAnswer": "₦36,000",
+    "correctAnswerIndex": 0,
+    "explanation": "Depreciation = (Cost - Scrap Value) / Useful life = (₦200,000 - ₦20,000) / 5 = ₦180,000 / 5 = ₦36,000.",
+    "solution": "Depreciation = (Cost - Scrap Value) / Useful life = (₦200,000 - ₦20,000) / 5 = ₦180,000 / 5 = ₦36,000.",
+    "year": "JAMB 2021"
+  },
+  {
+    "id": "acc_07",
+    "subject": "accounting",
+    "question": "The accounting concept that assumes an enterprise will continue operations for the foreseeable future without liquidation is the:",
+    "questionText": "The accounting concept that assumes an enterprise will continue operations for the foreseeable future without liquidation is the:",
+    "options": [
+      "going concern concept",
+      "business entity concept",
+      "periodicity concept",
+      "historical cost concept"
+    ],
+    "correctAnswer": "going concern concept",
+    "correctAnswerIndex": 0,
+    "explanation": "The going concern assumption presumes a business will remain active indefinitely.",
+    "solution": "The going concern assumption presumes a business will remain active indefinitely.",
+    "year": "JAMB 2022"
+  },
+  {
+    "id": "acc_08",
+    "subject": "accounting",
+    "question": "The Trading Account of a merchant is prepared primarily to determine the:",
+    "questionText": "The Trading Account of a merchant is prepared primarily to determine the:",
+    "options": [
+      "gross profit or gross loss",
+      "net profit or net loss",
+      "total owner's equity",
+      "working capital position"
+    ],
+    "correctAnswer": "gross profit or gross loss",
+    "correctAnswerIndex": 0,
+    "explanation": "Gross Profit = Sales Revenue - Cost of Goods Sold, calculated in the Trading Account.",
+    "solution": "Gross Profit = Sales Revenue - Cost of Goods Sold, calculated in the Trading Account.",
+    "year": "JAMB 2020"
+  },
+  {
+    "id": "acc_09",
+    "subject": "accounting",
+    "question": "The Petty Cash system where the cashier is reimbursed the exact amount spent during a period to restore the original float is the:",
+    "questionText": "The Petty Cash system where the cashier is reimbursed the exact amount spent during a period to restore the original float is the:",
+    "options": [
+      "imprest system",
+      "double-column system",
+      "accrual system",
+      "fixed float system"
+    ],
+    "correctAnswer": "imprest system",
+    "correctAnswerIndex": 0,
+    "explanation": "Under the imprest system, petty cash is replenished by the exact sum of approved vouchers.",
+    "solution": "Under the imprest system, petty cash is replenished by the exact sum of approved vouchers.",
+    "year": "JAMB 2023"
+  },
+  {
+    "id": "acc_10",
+    "subject": "accounting",
+    "question": "When goods are taken by the proprietor for personal domestic use, the double entry is:",
+    "questionText": "When goods are taken by the proprietor for personal domestic use, the double entry is:",
+    "options": [
+      "Debit Drawings, Credit Purchases",
+      "Debit Purchases, Credit Drawings",
+      "Debit Sales, Credit Capital",
+      "Debit Drawings, Credit Sales"
+    ],
+    "correctAnswer": "Debit Drawings, Credit Purchases",
+    "correctAnswerIndex": 0,
+    "explanation": "Drawings account is debited at cost price, reducing purchases inventory.",
+    "solution": "Drawings account is debited at cost price, reducing purchases inventory.",
+    "year": "JAMB 2018"
+  },
+  {
+    "id": "acc_11",
+    "subject": "accounting",
+    "question": "Working Capital of a business firm is computed as:",
+    "questionText": "Working Capital of a business firm is computed as:",
+    "options": [
+      "Current Assets minus Current Liabilities",
+      "Total Assets minus Total Liabilities",
+      "Fixed Assets plus Current Assets",
+      "Gross Profit minus Operating Expenses"
+    ],
+    "correctAnswer": "Current Assets minus Current Liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "Working capital = Current Assets - Current Liabilities, measuring short-term liquidity.",
+    "solution": "Working capital = Current Assets - Current Liabilities, measuring short-term liquidity.",
+    "year": "JAMB 2021"
+  },
+  {
+    "id": "acc_12",
+    "subject": "accounting",
+    "question": "Which of the following items is treated as a capital expenditure in financial accounts?",
+    "questionText": "Which of the following items is treated as a capital expenditure in financial accounts?",
+    "options": [
+      "Purchase of a delivery van for business distribution",
+      "Payment of electricity bills",
+      "Wages of sales clerks",
+      "Cost of petrol for factory generators"
+    ],
+    "correctAnswer": "Purchase of a delivery van for business distribution",
+    "correctAnswerIndex": 0,
+    "explanation": "Capital expenditure acquires non-current assets yielding benefits across multiple financial years.",
+    "solution": "Capital expenditure acquires non-current assets yielding benefits across multiple financial years.",
+    "year": "JAMB 2022"
+  },
+  {
+    "id": "acc_13",
+    "subject": "accounting",
+    "question": "A debit balance brought down in a bank column of a three-column cash book indicates:",
+    "questionText": "A debit balance brought down in a bank column of a three-column cash book indicates:",
+    "options": [
+      "cash at bank (an asset)",
+      "a bank overdraft (a liability)",
+      "bank service charge",
+      "unpresented cheques"
+    ],
+    "correctAnswer": "cash at bank (an asset)",
+    "correctAnswerIndex": 0,
+    "explanation": "Cash and bank accounts carry normal debit balances representing liquid assets.",
+    "solution": "Cash and bank accounts carry normal debit balances representing liquid assets.",
+    "year": "JAMB 2020"
+  },
+  {
+    "id": "acc_14",
+    "subject": "accounting",
+    "question": "The convention of prudence (conservatism) dictates that:",
+    "questionText": "The convention of prudence (conservatism) dictates that:",
+    "options": [
+      "anticipated losses should be provided for, but anticipated profits must not be recorded until realized",
+      "profits are recorded immediately contracts are negotiated",
+      "assets are recorded at replacement value",
+      "expenses are ignored until paid in cash"
+    ],
+    "correctAnswer": "anticipated losses should be provided for, but anticipated profits must not be recorded until realized",
+    "correctAnswerIndex": 0,
+    "explanation": "Prudence prevents the overstatement of assets/profits and the understatement of liabilities/losses.",
+    "solution": "Prudence prevents the overstatement of assets/profits and the understatement of liabilities/losses.",
+    "year": "JAMB 2023"
+  },
+  {
+    "id": "acc_15",
+    "subject": "accounting",
+    "question": "In partnership accounts, in the absence of an explicit partnership agreement, the Partnership Act provides that profits are shared:",
+    "questionText": "In partnership accounts, in the absence of an explicit partnership agreement, the Partnership Act provides that profits are shared:",
+    "options": [
+      "equally among all partners",
+      "in proportion to capital contributed",
+      "according to partner age",
+      "by the managing partner exclusively"
+    ],
+    "correctAnswer": "equally among all partners",
+    "correctAnswerIndex": 0,
+    "explanation": "Under the Partnership Act 1890, partners share profits and losses equally unless agreed otherwise.",
+    "solution": "Under the Partnership Act 1890, partners share profits and losses equally unless agreed otherwise.",
+    "year": "JAMB 2019"
+  },
+  {
+    "id": "acc_16",
+    "subject": "accounting",
+    "question": "Rent paid in advance by a tenant at the end of a financial accounting period is shown in the Balance Sheet as a:",
+    "questionText": "Rent paid in advance by a tenant at the end of a financial accounting period is shown in the Balance Sheet as a:",
+    "options": [
+      "Current asset (prepayment)",
+      "Current liability (accrual)",
+      "Long-term liability",
+      "Deduction from capital"
+    ],
+    "correctAnswer": "Current asset (prepayment)",
+    "correctAnswerIndex": 0,
+    "explanation": "Prepayments represent prepaid services owed back to the enterprise, classified as current assets.",
+    "solution": "Prepayments represent prepaid services owed back to the enterprise, classified as current assets.",
+    "year": "JAMB 2021"
+  },
+  {
+    "id": "acc_17",
+    "subject": "accounting",
+    "question": "The journal entry to write off a definitively irrecoverable bad debt from a customer is:",
+    "questionText": "The journal entry to write off a definitively irrecoverable bad debt from a customer is:",
+    "options": [
+      "Debit Bad Debts Account, Credit Debtor's Personal Account",
+      "Debit Debtor's Account, Credit Bad Debts",
+      "Debit Cash, Credit Bad Debts",
+      "Debit Provision, Credit Profit and Loss"
+    ],
+    "correctAnswer": "Debit Bad Debts Account, Credit Debtor's Personal Account",
+    "correctAnswerIndex": 0,
+    "explanation": "Bad Debts expense is debited, and the debtor's ledger balance is credited to remove the uncollectible asset.",
+    "solution": "Bad Debts expense is debited, and the debtor's ledger balance is credited to remove the uncollectible asset.",
+    "year": "JAMB 2022"
+  },
+  {
+    "id": "acc_18",
+    "subject": "accounting",
+    "question": "The source document sent to a client for goods sold on credit detailing quantities, prices, and discounts is an:",
+    "questionText": "The source document sent to a client for goods sold on credit detailing quantities, prices, and discounts is an:",
+    "options": [
+      "invoice",
+      "receipt",
+      "debit note",
+      "payment voucher"
+    ],
+    "correctAnswer": "invoice",
+    "correctAnswerIndex": 0,
+    "explanation": "An invoice summarizes credit transactions, prices, descriptions, and terms of settlement.",
+    "solution": "An invoice summarizes credit transactions, prices, descriptions, and terms of settlement.",
+    "year": "JAMB 2020"
+  },
+  {
+    "id": "acc_19",
+    "subject": "accounting",
+    "question": "Cost of Goods Sold is calculated as:",
+    "questionText": "Cost of Goods Sold is calculated as:",
+    "options": [
+      "Opening Stock + Purchases - Closing Stock",
+      "Sales - Net Profit",
+      "Purchases + Carriage Inwards + Sales",
+      "Opening Stock + Closing Stock - Purchases"
+    ],
+    "correctAnswer": "Opening Stock + Purchases - Closing Stock",
+    "correctAnswerIndex": 0,
+    "explanation": "COGS = Opening Stock + Net Purchases + Carriage Inwards - Closing Stock.",
+    "solution": "COGS = Opening Stock + Net Purchases + Carriage Inwards - Closing Stock.",
+    "year": "JAMB 2023"
+  },
+  {
+    "id": "acc_20",
+    "subject": "accounting",
+    "question": "An intangible non-current asset representing the established reputation and patron loyalty of an enterprise is:",
+    "questionText": "An intangible non-current asset representing the established reputation and patron loyalty of an enterprise is:",
+    "options": [
+      "Goodwill",
+      "Patent rights",
+      "Trademark",
+      "Preliminary expenses"
+    ],
+    "correctAnswer": "Goodwill",
+    "correctAnswerIndex": 0,
+    "explanation": "Goodwill is the premium value of an existing thriving business beyond its net identifiable tangible assets.",
+    "solution": "Goodwill is the premium value of an existing thriving business beyond its net identifiable tangible assets.",
+    "year": "JAMB 2019"
+  },
+  {
+    "id": "acc_21",
+    "subject": "accounting",
+    "question": "The discount allowed to a debtor for prompt payment within a specified cash window is termed:",
+    "questionText": "The discount allowed to a debtor for prompt payment within a specified cash window is termed:",
+    "options": [
+      "cash discount",
+      "trade discount",
+      "quantity rebate",
+      "consignment allowance"
+    ],
+    "correctAnswer": "cash discount",
+    "correctAnswerIndex": 0,
+    "explanation": "Cash discount incentivizes quick settlement; recorded directly in the cash book and profit & loss account.",
+    "solution": "Cash discount incentivizes quick settlement; recorded directly in the cash book and profit & loss account.",
+    "year": "JAMB 2021"
+  },
+  {
+    "id": "acc_22",
+    "subject": "accounting",
+    "question": "In a partnership, interest on a partner’s drawings is treated as:",
+    "questionText": "In a partnership, interest on a partner’s drawings is treated as:",
+    "options": [
+      "an addition to net profit in the profit and loss appropriation account",
+      "an expense in the trading account",
+      "a direct cash dividend",
+      "a bank reconciliation item"
+    ],
+    "correctAnswer": "an addition to net profit in the profit and loss appropriation account",
+    "correctAnswerIndex": 0,
+    "explanation": "Interest on drawings penalizes partner withdrawals and increases total profit available for appropriation.",
+    "solution": "Interest on drawings penalizes partner withdrawals and increases total profit available for appropriation.",
+    "year": "JAMB 2022"
+  },
+  {
+    "id": "acc_23",
+    "subject": "accounting",
+    "question": "A trial balance is primarily prepared to:",
+    "questionText": "A trial balance is primarily prepared to:",
+    "options": [
+      "test the arithmetic accuracy of double entry postings in the ledgers",
+      "reveal the financial worth of a company",
+      "calculate tax liabilities",
+      "audit cash flow changes"
+    ],
+    "correctAnswer": "test the arithmetic accuracy of double entry postings in the ledgers",
+    "correctAnswerIndex": 0,
+    "explanation": "A trial balance checks that total debits equal total credits before compiling final financial accounts.",
+    "solution": "A trial balance checks that total debits equal total credits before compiling final financial accounts.",
+    "year": "JAMB 2020"
+  },
+  {
+    "id": "acc_24",
+    "subject": "accounting",
+    "question": "The accounting principle requiring the financial affairs of the business owner to be separated from the business entity is the:",
+    "questionText": "The accounting principle requiring the financial affairs of the business owner to be separated from the business entity is the:",
+    "options": [
+      "business entity concept",
+      "dual aspect concept",
+      "money measurement concept",
+      "matching concept"
+    ],
+    "correctAnswer": "business entity concept",
+    "correctAnswerIndex": 0,
+    "explanation": "The business entity concept treats the company as a distinct legal and accounting personality apart from owners.",
+    "solution": "The business entity concept treats the company as a distinct legal and accounting personality apart from owners.",
+    "year": "JAMB 2023"
+  },
+  {
+    "id": "acc_25",
+    "subject": "accounting",
+    "question": "Which column in a three-column cash book is NOT balanced, but only totaled and posted to the ledger?",
+    "questionText": "Which column in a three-column cash book is NOT balanced, but only totaled and posted to the ledger?",
+    "options": [
+      "Discount columns (Discount Allowed & Discount Received)",
+      "Cash columns",
+      "Bank columns",
+      "Folio columns"
+    ],
+    "correctAnswer": "Discount columns (Discount Allowed & Discount Received)",
+    "correctAnswerIndex": 0,
+    "explanation": "The discount allowed and discount received columns are totaled and transferred directly to their respective ledger accounts.",
+    "solution": "The discount allowed and discount received columns are totaled and transferred directly to their respective ledger accounts.",
+    "year": "JAMB 2018"
+  },
+  {
+    "id": "acc_gen_001",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #1)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #1)",
+    "options": [
+      "Balance Sheet (Statement of Financial Position)",
+      "Cash Flow Statement",
+      "Income Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_002",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #2)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #2)",
+    "options": [
+      "Reducing balance method",
+      "Straight-line method",
+      "Sum-of-the-years-digits method",
+      "Revaluation method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_003",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #3)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #3)",
+    "options": [
+      "Error of omission",
+      "Error of commission",
+      "Error of principle",
+      "Compensating error"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_004",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #4)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #4)",
+    "options": [
+      "Contra entry",
+      "Debit entry",
+      "Credit entry",
+      "Journal adjustment"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_005",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #5)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #5)",
+    "options": [
+      "Reconcile the cash book balance with the bank statement balance",
+      "Calculate annual company net profit",
+      "Assess partner capital distributions",
+      "Detect errors in the trial balance"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_006",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #6)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #6)",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Balance Sheet (Statement of Financial Position)",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_007",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #7)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #7)",
+    "options": [
+      "Reducing balance method",
+      "Straight-line method",
+      "Revaluation method",
+      "Sum-of-the-years-digits method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_008",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #8)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #8)",
+    "options": [
+      "Compensating error",
+      "Error of omission",
+      "Error of commission",
+      "Error of principle"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_009",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #9)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #9)",
+    "options": [
+      "Credit entry",
+      "Contra entry",
+      "Debit entry",
+      "Journal adjustment"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_010",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #10)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #10)",
+    "options": [
+      "Assess partner capital distributions",
+      "Reconcile the cash book balance with the bank statement balance",
+      "Calculate annual company net profit",
+      "Detect errors in the trial balance"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_011",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #11)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #11)",
+    "options": [
+      "Balance Sheet (Statement of Financial Position)",
+      "Income Statement",
+      "Trial Balance",
+      "Cash Flow Statement"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_012",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #12)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #12)",
+    "options": [
+      "Reducing balance method",
+      "Sum-of-the-years-digits method",
+      "Revaluation method",
+      "Straight-line method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_013",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #13)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #13)",
+    "options": [
+      "Error of commission",
+      "Compensating error",
+      "Error of principle",
+      "Error of omission"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_014",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #14)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #14)",
+    "options": [
+      "Debit entry",
+      "Credit entry",
+      "Journal adjustment",
+      "Contra entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_015",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #15)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #15)",
+    "options": [
+      "Reconcile the cash book balance with the bank statement balance",
+      "Detect errors in the trial balance",
+      "Calculate annual company net profit",
+      "Assess partner capital distributions"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_016",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #16)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #16)",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Trial Balance",
+      "Balance Sheet (Statement of Financial Position)"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_017",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #17)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #17)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Straight-line method",
+      "Reducing balance method",
+      "Revaluation method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_018",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #18)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #18)",
+    "options": [
+      "Error of commission",
+      "Error of omission",
+      "Error of principle",
+      "Compensating error"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_019",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #19)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #19)",
+    "options": [
+      "Debit entry",
+      "Journal adjustment",
+      "Credit entry",
+      "Contra entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_020",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #20)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #20)",
+    "options": [
+      "Assess partner capital distributions",
+      "Detect errors in the trial balance",
+      "Calculate annual company net profit",
+      "Reconcile the cash book balance with the bank statement balance"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_021",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #21)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #21)",
+    "options": [
+      "Cash Flow Statement",
+      "Balance Sheet (Statement of Financial Position)",
+      "Income Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_022",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #22)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #22)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Straight-line method",
+      "Revaluation method",
+      "Reducing balance method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_023",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #23)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #23)",
+    "options": [
+      "Error of principle",
+      "Compensating error",
+      "Error of commission",
+      "Error of omission"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_024",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #24)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #24)",
+    "options": [
+      "Debit entry",
+      "Journal adjustment",
+      "Contra entry",
+      "Credit entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_025",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #25)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #25)",
+    "options": [
+      "Calculate annual company net profit",
+      "Reconcile the cash book balance with the bank statement balance",
+      "Assess partner capital distributions",
+      "Detect errors in the trial balance"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_026",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #26)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #26)",
+    "options": [
+      "Balance Sheet (Statement of Financial Position)",
+      "Cash Flow Statement",
+      "Income Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_027",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #27)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #27)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Revaluation method",
+      "Straight-line method",
+      "Reducing balance method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_028",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #28)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #28)",
+    "options": [
+      "Compensating error",
+      "Error of omission",
+      "Error of principle",
+      "Error of commission"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_029",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #29)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #29)",
+    "options": [
+      "Contra entry",
+      "Debit entry",
+      "Journal adjustment",
+      "Credit entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_030",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #30)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #30)",
+    "options": [
+      "Detect errors in the trial balance",
+      "Reconcile the cash book balance with the bank statement balance",
+      "Assess partner capital distributions",
+      "Calculate annual company net profit"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_031",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #31)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #31)",
+    "options": [
+      "Cash Flow Statement",
+      "Balance Sheet (Statement of Financial Position)",
+      "Income Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_032",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #32)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #32)",
+    "options": [
+      "Straight-line method",
+      "Sum-of-the-years-digits method",
+      "Reducing balance method",
+      "Revaluation method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_033",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #33)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #33)",
+    "options": [
+      "Compensating error",
+      "Error of commission",
+      "Error of omission",
+      "Error of principle"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_034",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #34)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #34)",
+    "options": [
+      "Debit entry",
+      "Contra entry",
+      "Journal adjustment",
+      "Credit entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_035",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #35)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #35)",
+    "options": [
+      "Reconcile the cash book balance with the bank statement balance",
+      "Assess partner capital distributions",
+      "Detect errors in the trial balance",
+      "Calculate annual company net profit"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_036",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #36)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #36)",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Trial Balance",
+      "Balance Sheet (Statement of Financial Position)"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_037",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #37)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #37)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Straight-line method",
+      "Reducing balance method",
+      "Revaluation method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_038",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #38)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #38)",
+    "options": [
+      "Error of omission",
+      "Error of principle",
+      "Error of commission",
+      "Compensating error"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_039",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #39)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #39)",
+    "options": [
+      "Journal adjustment",
+      "Contra entry",
+      "Debit entry",
+      "Credit entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_040",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #40)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #40)",
+    "options": [
+      "Reconcile the cash book balance with the bank statement balance",
+      "Detect errors in the trial balance",
+      "Assess partner capital distributions",
+      "Calculate annual company net profit"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_041",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #41)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #41)",
+    "options": [
+      "Income Statement",
+      "Trial Balance",
+      "Cash Flow Statement",
+      "Balance Sheet (Statement of Financial Position)"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_042",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #42)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #42)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Reducing balance method",
+      "Revaluation method",
+      "Straight-line method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_043",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #43)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #43)",
+    "options": [
+      "Error of principle",
+      "Compensating error",
+      "Error of commission",
+      "Error of omission"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_044",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #44)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #44)",
+    "options": [
+      "Credit entry",
+      "Journal adjustment",
+      "Debit entry",
+      "Contra entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_045",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #45)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #45)",
+    "options": [
+      "Assess partner capital distributions",
+      "Reconcile the cash book balance with the bank statement balance",
+      "Detect errors in the trial balance",
+      "Calculate annual company net profit"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_046",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #46)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #46)",
+    "options": [
+      "Trial Balance",
+      "Balance Sheet (Statement of Financial Position)",
+      "Income Statement",
+      "Cash Flow Statement"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_047",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #47)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #47)",
+    "options": [
+      "Sum-of-the-years-digits method",
+      "Reducing balance method",
+      "Straight-line method",
+      "Revaluation method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_048",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #48)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #48)",
+    "options": [
+      "Error of commission",
+      "Error of omission",
+      "Compensating error",
+      "Error of principle"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_049",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #49)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #49)",
+    "options": [
+      "Debit entry",
+      "Journal adjustment",
+      "Credit entry",
+      "Contra entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_050",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #50)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #50)",
+    "options": [
+      "Detect errors in the trial balance",
+      "Calculate annual company net profit",
+      "Reconcile the cash book balance with the bank statement balance",
+      "Assess partner capital distributions"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_051",
+    "subject": "accounting",
+    "question": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #51)",
+    "questionText": "Which financial statement shows the financial position of a business at a specific point in time? (Accounting Practice #51)",
+    "options": [
+      "Cash Flow Statement",
+      "Balance Sheet (Statement of Financial Position)",
+      "Trial Balance",
+      "Income Statement"
+    ],
+    "correctAnswer": "Balance Sheet (Statement of Financial Position)",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "solution": "Accounting Working: The Balance Sheet lists assets, liabilities, and owners' equity at a specific date, illustrating the accounting equation Assets = Capital + Liabilities.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_052",
+    "subject": "accounting",
+    "question": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #52)",
+    "questionText": "The depreciation method that charges a uniform, equal amount of depreciation expense each year is the: (Accounting Practice #52)",
+    "options": [
+      "Revaluation method",
+      "Sum-of-the-years-digits method",
+      "Straight-line method",
+      "Reducing balance method"
+    ],
+    "correctAnswer": "Straight-line method",
+    "correctAnswerIndex": 2,
+    "explanation": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "solution": "Accounting Working: Straight-line depreciation = (Cost - Residual Value) / Useful Life, allocating identical depreciation expenses across every accounting period.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_053",
+    "subject": "accounting",
+    "question": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #53)",
+    "questionText": "Which error in accounting occurs when a transaction is entered in the wrong class of account (e.g. repairs debited to Machinery account)? (Accounting Practice #53)",
+    "options": [
+      "Error of omission",
+      "Error of principle",
+      "Compensating error",
+      "Error of commission"
+    ],
+    "correctAnswer": "Error of principle",
+    "correctAnswerIndex": 1,
+    "explanation": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "solution": "Accounting Working: An error of principle occurs when an entry violates fundamental accounting conventions, such as confusing capital expenditure with revenue expenditure.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_054",
+    "subject": "accounting",
+    "question": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #54)",
+    "questionText": "In double-entry bookkeeping, an increase in an asset is recorded by a: (Accounting Practice #54)",
+    "options": [
+      "Contra entry",
+      "Journal adjustment",
+      "Credit entry",
+      "Debit entry"
+    ],
+    "correctAnswer": "Debit entry",
+    "correctAnswerIndex": 3,
+    "explanation": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "solution": "Accounting Working: Under double-entry conventions, asset and expense accounts increase on the Debit side and decrease on the Credit side.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "acc_gen_055",
+    "subject": "accounting",
+    "question": "A bank reconciliation statement is prepared to: (Accounting Practice #55)",
+    "questionText": "A bank reconciliation statement is prepared to: (Accounting Practice #55)",
+    "options": [
+      "Reconcile the cash book balance with the bank statement balance",
+      "Calculate annual company net profit",
+      "Assess partner capital distributions",
+      "Detect errors in the trial balance"
+    ],
+    "correctAnswer": "Reconcile the cash book balance with the bank statement balance",
+    "correctAnswerIndex": 0,
+    "explanation": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "solution": "Accounting Working: A bank reconciliation reconciles timing differences (e.g., unpresented cheques, uncredited lodgements) between the firm's cash book and the bank's records.",
+    "year": "JAMB 2026 Standard"
+  },
+  {
+    "id": "accounting_10000",
+    "subject": "accounting",
+    "question": "What is \"cash management\"?",
+    "questionText": "What is \"cash management\"?",
+    "options": [
+      "Managing a company's cash inflows and outflows to ensure liquidity",
+      "Total revenues only",
+      "Sales tracking only",
+      "None of the above"
+    ],
+    "correctAnswer": "Managing a company's cash inflows and outflows to ensure liquidity",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Managing a company's cash inflows and outflows to ensure liquidity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Managing a company's cash inflows and outflows to ensure liquidity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9001",
+    "subject": "accounting",
+    "question": "What is the main purpose of accounting?",
+    "questionText": "What is the main purpose of accounting?",
+    "options": [
+      "To provide information for decision making",
+      "To prepare financial statements",
+      "To calculate taxes",
+      "To record daily transactions"
+    ],
+    "correctAnswer": "To provide information for decision making",
+    "correctAnswerIndex": 0,
+    "explanation": "\"To provide information for decision making\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To provide information for decision making\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9002",
+    "subject": "accounting",
+    "question": "Which of the following is not a financial statement?",
+    "questionText": "Which of the following is not a financial statement?",
+    "options": [
+      "Income Statement",
+      "Balance Sheet",
+      "Cash Flow Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Trial Balance",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Trial Balance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Trial Balance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9003",
+    "subject": "accounting",
+    "question": "What do you call the amount owed by a business to its creditors?",
+    "questionText": "What do you call the amount owed by a business to its creditors?",
+    "options": [
+      "Equity",
+      "Asset",
+      "Liability",
+      "Revenue"
+    ],
+    "correctAnswer": "Liability",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Liability\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Liability\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9004",
+    "subject": "accounting",
+    "question": "The accounting equation is represented as:",
+    "questionText": "The accounting equation is represented as:",
+    "options": [
+      "Assets = Liabilities + Equity",
+      "Assets + Liabilities = Equity",
+      "Assets = Equity - Liabilities",
+      "Liabilities = Assets + Equity"
+    ],
+    "correctAnswer": "Assets = Liabilities + Equity",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Assets = Liabilities + Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Assets = Liabilities + Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9005",
+    "subject": "accounting",
+    "question": "Which accounting principle requires that expenses be matched with revenues?",
+    "questionText": "Which accounting principle requires that expenses be matched with revenues?",
+    "options": [
+      "Revenue Recognition Principle",
+      "Accrual Principle",
+      "Cost Principle",
+      "Going Concern Principle"
+    ],
+    "correctAnswer": "Accrual Principle",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Accrual Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accrual Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9006",
+    "subject": "accounting",
+    "question": "What is depreciation?",
+    "questionText": "What is depreciation?",
+    "options": [
+      "A decrease in the value of an asset",
+      "An increase in sales",
+      "A method to calculate taxes",
+      "An accounting error"
+    ],
+    "correctAnswer": "A decrease in the value of an asset",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A decrease in the value of an asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A decrease in the value of an asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9007",
+    "subject": "accounting",
+    "question": "Which accounting method recognizes revenue when earned?",
+    "questionText": "Which accounting method recognizes revenue when earned?",
+    "options": [
+      "Cash basis",
+      "Accrual basis",
+      "Hybrid basis",
+      "Deferral basis"
+    ],
+    "correctAnswer": "Accrual basis",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Accrual basis\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accrual basis\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9008",
+    "subject": "accounting",
+    "question": "What is a trial balance used for?",
+    "questionText": "What is a trial balance used for?",
+    "options": [
+      "To prepare financial statements",
+      "To balance the books",
+      "To check accounting errors",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "correctAnswerIndex": 3,
+    "explanation": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9009",
+    "subject": "accounting",
+    "question": "Which of the following accounts is closed at the end of the accounting period?",
+    "questionText": "Which of the following accounts is closed at the end of the accounting period?",
+    "options": [
+      "Asset Account",
+      "Liability Account",
+      "Expense Account",
+      "Permanent Account"
+    ],
+    "correctAnswer": "Expense Account",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Expense Account\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Expense Account\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9010",
+    "subject": "accounting",
+    "question": "What does GAAP stand for?",
+    "questionText": "What does GAAP stand for?",
+    "options": [
+      "Generally Accepted Accounting Principles",
+      "Global Accounting Access Policies",
+      "General Accounting Audit Procedures",
+      "Grant Accounting Advisory Practices"
+    ],
+    "correctAnswer": "Generally Accepted Accounting Principles",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Generally Accepted Accounting Principles\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Generally Accepted Accounting Principles\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9011",
+    "subject": "accounting",
+    "question": "Which of the following describes the term \"assets\"?",
+    "questionText": "Which of the following describes the term \"assets\"?",
+    "options": [
+      "Resources owned by a business",
+      "Obligations of a business",
+      "Income earned by a business",
+      "Expenses incurred"
+    ],
+    "correctAnswer": "Resources owned by a business",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Resources owned by a business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Resources owned by a business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9012",
+    "subject": "accounting",
+    "question": "What type of account is \"Revenue\"?",
+    "questionText": "What type of account is \"Revenue\"?",
+    "options": [
+      "Asset",
+      "Liability",
+      "Equity",
+      "Income"
+    ],
+    "correctAnswer": "Income",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Income\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Income\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9013",
+    "subject": "accounting",
+    "question": "What is the purpose of an audit?",
+    "questionText": "What is the purpose of an audit?",
+    "options": [
+      "To prepare tax returns",
+      "To verify the accuracy of financial statements",
+      "To increase sales",
+      "To manage cash flow"
+    ],
+    "correctAnswer": "To verify the accuracy of financial statements",
+    "correctAnswerIndex": 1,
+    "explanation": "\"To verify the accuracy of financial statements\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To verify the accuracy of financial statements\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9014",
+    "subject": "accounting",
+    "question": "Which of the following is an example of a current asset?",
+    "questionText": "Which of the following is an example of a current asset?",
+    "options": [
+      "Land",
+      "Accounts Receivable",
+      "Equipment",
+      "Buildings"
+    ],
+    "correctAnswer": "Accounts Receivable",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9015",
+    "subject": "accounting",
+    "question": "What does \"liability\" refer to?",
+    "questionText": "What does \"liability\" refer to?",
+    "options": [
+      "Assets owned",
+      "Debts owed to others",
+      "Owner’s equity",
+      "Income generated"
+    ],
+    "correctAnswer": "Debts owed to others",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Debts owed to others\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Debts owed to others\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9016",
+    "subject": "accounting",
+    "question": "Which financial statement shows a company’s financial position at a specific point in time?",
+    "questionText": "Which financial statement shows a company’s financial position at a specific point in time?",
+    "options": [
+      "Income Statement",
+      "Cash Flow Statement",
+      "Balance Sheet",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Balance Sheet",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Balance Sheet\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Balance Sheet\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9017",
+    "subject": "accounting",
+    "question": "What is the term for money owed to a company?",
+    "questionText": "What is the term for money owed to a company?",
+    "options": [
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Liabilities",
+      "Expenses"
+    ],
+    "correctAnswer": "Accounts Receivable",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9018",
+    "subject": "accounting",
+    "question": "Which accounting concept assumes the business will continue operating indefinitely?",
+    "questionText": "Which accounting concept assumes the business will continue operating indefinitely?",
+    "options": [
+      "Going Concern",
+      "Matching Principle",
+      "Accrual Basis",
+      "Cost Principle"
+    ],
+    "correctAnswer": "Going Concern",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Going Concern\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Going Concern\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9019",
+    "subject": "accounting",
+    "question": "How are \"expenses\" defined in accounting?",
+    "questionText": "How are \"expenses\" defined in accounting?",
+    "options": [
+      "Costs incurred to generate revenue",
+      "Assets purchased",
+      "Liabilities owed",
+      "Owner’s equity"
+    ],
+    "correctAnswer": "Costs incurred to generate revenue",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Costs incurred to generate revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Costs incurred to generate revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9020",
+    "subject": "accounting",
+    "question": "What is the role of the \"general ledger\"?",
+    "questionText": "What is the role of the \"general ledger\"?",
+    "options": [
+      "To summarize financial transactions",
+      "To record income only",
+      "To track company meetings",
+      "To manage employee payroll"
+    ],
+    "correctAnswer": "To summarize financial transactions",
+    "correctAnswerIndex": 0,
+    "explanation": "\"To summarize financial transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To summarize financial transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9021",
+    "subject": "accounting",
+    "question": "Which principle requires all relevant financial information to be disclosed?",
+    "questionText": "Which principle requires all relevant financial information to be disclosed?",
+    "options": [
+      "Materiality Principle",
+      "Conservatism Principle",
+      "Consistency Principle",
+      "Full Disclosure Principle"
+    ],
+    "correctAnswer": "Full Disclosure Principle",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Full Disclosure Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Full Disclosure Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9022",
+    "subject": "accounting",
+    "question": "What is \"capital\"?",
+    "questionText": "What is \"capital\"?",
+    "options": [
+      "Wealth owned by a business",
+      "Total liabilities",
+      "Net income",
+      "Current assets"
+    ],
+    "correctAnswer": "Wealth owned by a business",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Wealth owned by a business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Wealth owned by a business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9023",
+    "subject": "accounting",
+    "question": "What is the primary focus of financial accounting?",
+    "questionText": "What is the primary focus of financial accounting?",
+    "options": [
+      "Internal management",
+      "Regulatory compliance",
+      "External reporting",
+      "Tax-related purposes"
+    ],
+    "correctAnswer": "External reporting",
+    "correctAnswerIndex": 2,
+    "explanation": "\"External reporting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"External reporting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9024",
+    "subject": "accounting",
+    "question": "What does the term \"double-entry accounting\" mean?",
+    "questionText": "What does the term \"double-entry accounting\" mean?",
+    "options": [
+      "Every transaction affects two accounts",
+      "Only cash transactions are recorded",
+      "Revenue is recorded at the end of the period",
+      "Assets are bought on credit"
+    ],
+    "correctAnswer": "Every transaction affects two accounts",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Every transaction affects two accounts\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Every transaction affects two accounts\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9025",
+    "subject": "accounting",
+    "question": "What is a \"journal\" in accounting?",
+    "questionText": "What is a \"journal\" in accounting?",
+    "options": [
+      "A book for recording transactions",
+      "A financial statement",
+      "A summary of accounts",
+      "A tax report"
+    ],
+    "correctAnswer": "A book for recording transactions",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A book for recording transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A book for recording transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9026",
+    "subject": "accounting",
+    "question": "Which ratio measures a company’s ability to cover its short-term obligations?",
+    "questionText": "Which ratio measures a company’s ability to cover its short-term obligations?",
+    "options": [
+      "Debt Ratio",
+      "Current Ratio",
+      "Profitability Ratio",
+      "Return on Equity"
+    ],
+    "correctAnswer": "Current Ratio",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Current Ratio\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Current Ratio\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9027",
+    "subject": "accounting",
+    "question": "What is \"gross profit\"?",
+    "questionText": "What is \"gross profit\"?",
+    "options": [
+      "Total sales minus total expenses",
+      "Total sales minus cost of goods sold",
+      "Net income minus taxes",
+      "Total revenue minus liabilities"
+    ],
+    "correctAnswer": "Total sales minus cost of goods sold",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Total sales minus cost of goods sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Total sales minus cost of goods sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9028",
+    "subject": "accounting",
+    "question": "Which document shows the amount of cash inflows and outflows for a reporting period?",
+    "questionText": "Which document shows the amount of cash inflows and outflows for a reporting period?",
+    "options": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Cash Flow Statement",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Cash Flow Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Cash Flow Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9029",
+    "subject": "accounting",
+    "question": "What represents the owners' residual claim on assets?",
+    "questionText": "What represents the owners' residual claim on assets?",
+    "options": [
+      "Assets",
+      "Expenses",
+      "Liabilities",
+      "Equity"
+    ],
+    "correctAnswer": "Equity",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9030",
+    "subject": "accounting",
+    "question": "What is the purpose of adjusting entries?",
+    "questionText": "What is the purpose of adjusting entries?",
+    "options": [
+      "To correct errors",
+      "To update account balances",
+      "To simplify the accounting process",
+      "To prepare for audits"
+    ],
+    "correctAnswer": "To update account balances",
+    "correctAnswerIndex": 1,
+    "explanation": "\"To update account balances\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To update account balances\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9031",
+    "subject": "accounting",
+    "question": "What does \"accounts payable\" refer to?",
+    "questionText": "What does \"accounts payable\" refer to?",
+    "options": [
+      "Money owed to suppliers",
+      "Money owed by customers",
+      "Expenses incurred",
+      "Net income"
+    ],
+    "correctAnswer": "Money owed to suppliers",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Money owed to suppliers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Money owed to suppliers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9032",
+    "subject": "accounting",
+    "question": "What is \"net income\"?",
+    "questionText": "What is \"net income\"?",
+    "options": [
+      "Total revenue minus total expenses",
+      "Total sales",
+      "Total expenses",
+      "Gross profit plus expenses"
+    ],
+    "correctAnswer": "Total revenue minus total expenses",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Total revenue minus total expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Total revenue minus total expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9033",
+    "subject": "accounting",
+    "question": "What is the effect of recording depreciation?",
+    "questionText": "What is the effect of recording depreciation?",
+    "options": [
+      "Decrease in asset value",
+      "Increase in revenue",
+      "Decrease in liabilities",
+      "Increase in expenses"
+    ],
+    "correctAnswer": "Decrease in asset value",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Decrease in asset value\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Decrease in asset value\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9034",
+    "subject": "accounting",
+    "question": "Which of the following is considered a long-term liability?",
+    "questionText": "Which of the following is considered a long-term liability?",
+    "options": [
+      "Accounts Payable",
+      "Bonds Payable",
+      "Accrued Liabilities",
+      "Income Taxes Payable"
+    ],
+    "correctAnswer": "Bonds Payable",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Bonds Payable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Bonds Payable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9035",
+    "subject": "accounting",
+    "question": "What is the main purpose of a balance sheet?",
+    "questionText": "What is the main purpose of a balance sheet?",
+    "options": [
+      "To show income over a period",
+      "To report cash flows",
+      "To present the financial position at a specific date",
+      "To summarize all transactions"
+    ],
+    "correctAnswer": "To present the financial position at a specific date",
+    "correctAnswerIndex": 2,
+    "explanation": "\"To present the financial position at a specific date\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To present the financial position at a specific date\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9036",
+    "subject": "accounting",
+    "question": "Which of the following accounts is permanent?",
+    "questionText": "Which of the following accounts is permanent?",
+    "options": [
+      "Revenue",
+      "Expense",
+      "Asset",
+      "Drawing"
+    ],
+    "correctAnswer": "Asset",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9037",
+    "subject": "accounting",
+    "question": "What is the formula for calculating current ratio?",
+    "questionText": "What is the formula for calculating current ratio?",
+    "options": [
+      "Current Assets / Current Liabilities",
+      "Total Assets / Total Liabilities",
+      "Current Assets - Current Liabilities",
+      "Total Assets - Total Liabilities"
+    ],
+    "correctAnswer": "Current Assets / Current Liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Current Assets / Current Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Current Assets / Current Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9038",
+    "subject": "accounting",
+    "question": "In which section of the balance sheet would you find inventory?",
+    "questionText": "In which section of the balance sheet would you find inventory?",
+    "options": [
+      "Current Assets",
+      "Long-term Assets",
+      "Current Liabilities",
+      "Equity"
+    ],
+    "correctAnswer": "Current Assets",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Current Assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Current Assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9039",
+    "subject": "accounting",
+    "question": "Which of the following best defines \"equity\"?",
+    "questionText": "Which of the following best defines \"equity\"?",
+    "options": [
+      "Assets minus liabilities",
+      "Owner’s investment in the business",
+      "Total revenues",
+      "Total expenses"
+    ],
+    "correctAnswer": "Assets minus liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Assets minus liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Assets minus liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9040",
+    "subject": "accounting",
+    "question": "What type of accounting focuses on internal decision-making?",
+    "questionText": "What type of accounting focuses on internal decision-making?",
+    "options": [
+      "Managerial Accounting",
+      "Financial Accounting",
+      "Tax Accounting",
+      "Forensic Accounting"
+    ],
+    "correctAnswer": "Managerial Accounting",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Managerial Accounting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Managerial Accounting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9041",
+    "subject": "accounting",
+    "question": "What is meant by \"liquidating an asset\"?",
+    "questionText": "What is meant by \"liquidating an asset\"?",
+    "options": [
+      "Converting it into cash",
+      "Increasing its value",
+      "Decreasing its value",
+      "Removing it from the books"
+    ],
+    "correctAnswer": "Converting it into cash",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Converting it into cash\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Converting it into cash\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9042",
+    "subject": "accounting",
+    "question": "What does \"FIFO\" stand for in inventory valuation?",
+    "questionText": "What does \"FIFO\" stand for in inventory valuation?",
+    "options": [
+      "First In First Out",
+      "Final In Final Out",
+      "First In Final Out",
+      "Final In First Out"
+    ],
+    "correctAnswer": "First In First Out",
+    "correctAnswerIndex": 0,
+    "explanation": "\"First In First Out\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"First In First Out\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9043",
+    "subject": "accounting",
+    "question": "Which of the following is recorded on the income statement?",
+    "questionText": "Which of the following is recorded on the income statement?",
+    "options": [
+      "Cash",
+      "Accounts Receivable",
+      "Revenue",
+      "Inventory"
+    ],
+    "correctAnswer": "Revenue",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9044",
+    "subject": "accounting",
+    "question": "What is the purpose of a cash flow statement?",
+    "questionText": "What is the purpose of a cash flow statement?",
+    "options": [
+      "To show profitability",
+      "To monitor cash inflows and outflows",
+      "To report assets",
+      "To calculate liabilities"
+    ],
+    "correctAnswer": "To monitor cash inflows and outflows",
+    "correctAnswerIndex": 1,
+    "explanation": "\"To monitor cash inflows and outflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To monitor cash inflows and outflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9045",
+    "subject": "accounting",
+    "question": "Which of the following is a non-cash expense?",
+    "questionText": "Which of the following is a non-cash expense?",
+    "options": [
+      "Depreciation",
+      "Cost of Goods Sold",
+      "Salaries",
+      "Utilities"
+    ],
+    "correctAnswer": "Depreciation",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Depreciation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Depreciation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9046",
+    "subject": "accounting",
+    "question": "What is an \"accrual\"?",
+    "questionText": "What is an \"accrual\"?",
+    "options": [
+      "Revenue recognized before cash is received",
+      "Cash payment made before the service is provided",
+      "Transaction recorded after cash is paid",
+      "None of the above"
+    ],
+    "correctAnswer": "Revenue recognized before cash is received",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Revenue recognized before cash is received\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Revenue recognized before cash is received\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9047",
+    "subject": "accounting",
+    "question": "What does \"cost of goods sold\" represent?",
+    "questionText": "What does \"cost of goods sold\" represent?",
+    "options": [
+      "The direct costs attributable to the production of goods sold",
+      "The total revenues of a company",
+      "The overhead costs",
+      "The selling expenses"
+    ],
+    "correctAnswer": "The direct costs attributable to the production of goods sold",
+    "correctAnswerIndex": 0,
+    "explanation": "\"The direct costs attributable to the production of goods sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"The direct costs attributable to the production of goods sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9048",
+    "subject": "accounting",
+    "question": "What is a \"contra account\"?",
+    "questionText": "What is a \"contra account\"?",
+    "options": [
+      "An account that reduces the value of a related account",
+      "An account that has a zero balance",
+      "An account for tracking cash",
+      "An account for non-operating expenses"
+    ],
+    "correctAnswer": "An account that reduces the value of a related account",
+    "correctAnswerIndex": 0,
+    "explanation": "\"An account that reduces the value of a related account\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"An account that reduces the value of a related account\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9049",
+    "subject": "accounting",
+    "question": "What does \"working capital\" refer to?",
+    "questionText": "What does \"working capital\" refer to?",
+    "options": [
+      "Current Assets minus Current Liabilities",
+      "Total Assets",
+      "Total Liabilities",
+      "Owner’s equity"
+    ],
+    "correctAnswer": "Current Assets minus Current Liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Current Assets minus Current Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Current Assets minus Current Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9050",
+    "subject": "accounting",
+    "question": "Which of the following is not an intangible asset?",
+    "questionText": "Which of the following is not an intangible asset?",
+    "options": [
+      "Patent",
+      "Trademark",
+      "Goodwill",
+      "Accounts Receivable"
+    ],
+    "correctAnswer": "Accounts Receivable",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accounts Receivable\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9051",
+    "subject": "accounting",
+    "question": "What does \"book value\" refer to?",
+    "questionText": "What does \"book value\" refer to?",
+    "options": [
+      "Original cost of an asset minus accumulated depreciation",
+      "Market value of an asset",
+      "Total liabilities",
+      "Current cash balance"
+    ],
+    "correctAnswer": "Original cost of an asset minus accumulated depreciation",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Original cost of an asset minus accumulated depreciation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Original cost of an asset minus accumulated depreciation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9052",
+    "subject": "accounting",
+    "question": "Which financial statement summarizes revenues and expenses?",
+    "questionText": "Which financial statement summarizes revenues and expenses?",
+    "options": [
+      "Balance Sheet",
+      "Income Statement",
+      "Cash Flow Statement",
+      "Trial Balance"
+    ],
+    "correctAnswer": "Income Statement",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Income Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Income Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9053",
+    "subject": "accounting",
+    "question": "In accounting, what does \"materiality\" imply?",
+    "questionText": "In accounting, what does \"materiality\" imply?",
+    "options": [
+      "Only significant information should be reported",
+      "All information must be disclosed",
+      "Minor errors can be ignored",
+      "Every transaction must be documented"
+    ],
+    "correctAnswer": "Only significant information should be reported",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Only significant information should be reported\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Only significant information should be reported\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9054",
+    "subject": "accounting",
+    "question": "What is \"retained earnings\"?",
+    "questionText": "What is \"retained earnings\"?",
+    "options": [
+      "Profits reinvested in the business",
+      "Total assets",
+      "Current liabilities",
+      "Owner’s withdrawals"
+    ],
+    "correctAnswer": "Profits reinvested in the business",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Profits reinvested in the business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Profits reinvested in the business\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9055",
+    "subject": "accounting",
+    "question": "Which of the following is a characteristic of a sole proprietorship?",
+    "questionText": "Which of the following is a characteristic of a sole proprietorship?",
+    "options": [
+      "Limited liability",
+      "Double taxation",
+      "Unlimited liability",
+      "Separate legal entity"
+    ],
+    "correctAnswer": "Unlimited liability",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Unlimited liability\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Unlimited liability\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9056",
+    "subject": "accounting",
+    "question": "Which accounting principle requires that accounting methods be consistent over time?",
+    "questionText": "Which accounting principle requires that accounting methods be consistent over time?",
+    "options": [
+      "Consistency Principle",
+      "Accrual Principle",
+      "Matching Principle",
+      "Materiality Principle"
+    ],
+    "correctAnswer": "Consistency Principle",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Consistency Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Consistency Principle\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9057",
+    "subject": "accounting",
+    "question": "What does \"amortization\" refer to?",
+    "questionText": "What does \"amortization\" refer to?",
+    "options": [
+      "Allocation of the cost of intangible assets",
+      "Reduction of debt",
+      "Calculation of profit",
+      "Increase in asset value"
+    ],
+    "correctAnswer": "Allocation of the cost of intangible assets",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Allocation of the cost of intangible assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Allocation of the cost of intangible assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9058",
+    "subject": "accounting",
+    "question": "What does the term \"overhead\" refer to?",
+    "questionText": "What does the term \"overhead\" refer to?",
+    "options": [
+      "Direct costs of production",
+      "Indirect costs that cannot be attributed to a specific product",
+      "Total sales",
+      "Administrative expenses"
+    ],
+    "correctAnswer": "Indirect costs that cannot be attributed to a specific product",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Indirect costs that cannot be attributed to a specific product\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Indirect costs that cannot be attributed to a specific product\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9059",
+    "subject": "accounting",
+    "question": "Which type of account increases with debit entries?",
+    "questionText": "Which type of account increases with debit entries?",
+    "options": [
+      "Liabilities",
+      "Revenues",
+      "Expenses",
+      "Equity"
+    ],
+    "correctAnswer": "Expenses",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9060",
+    "subject": "accounting",
+    "question": "What is \"purchasing discounts\"?",
+    "questionText": "What is \"purchasing discounts\"?",
+    "options": [
+      "Reductions in price offered by suppliers",
+      "Shipping costs",
+      "Interest on loans",
+      "Sales tax"
+    ],
+    "correctAnswer": "Reductions in price offered by suppliers",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Reductions in price offered by suppliers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Reductions in price offered by suppliers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9061",
+    "subject": "accounting",
+    "question": "What is \"financial leverage\"?",
+    "questionText": "What is \"financial leverage\"?",
+    "options": [
+      "Using borrowed funds to increase potential return",
+      "Reducing expenses to increase profit",
+      "Investing in high-risk assets",
+      "Managing cash flow effectively"
+    ],
+    "correctAnswer": "Using borrowed funds to increase potential return",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Using borrowed funds to increase potential return\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Using borrowed funds to increase potential return\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9062",
+    "subject": "accounting",
+    "question": "What do we call the planned use of resources in a period?",
+    "questionText": "What do we call the planned use of resources in a period?",
+    "options": [
+      "Budget",
+      "Forecast",
+      "Estimate",
+      "Projection"
+    ],
+    "correctAnswer": "Budget",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Budget\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Budget\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9063",
+    "subject": "accounting",
+    "question": "Which of the following accounts is temporary?",
+    "questionText": "Which of the following accounts is temporary?",
+    "options": [
+      "Revenue",
+      "Asset",
+      "Liability",
+      "Capital"
+    ],
+    "correctAnswer": "Revenue",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9064",
+    "subject": "accounting",
+    "question": "Which ratio indicates how effectively a company is using its assets to generate earnings?",
+    "questionText": "Which ratio indicates how effectively a company is using its assets to generate earnings?",
+    "options": [
+      "Return on Assets (ROA)",
+      "Current Ratio",
+      "Debt to Equity Ratio",
+      "Gross Profit Margin"
+    ],
+    "correctAnswer": "Return on Assets (ROA)",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Return on Assets (ROA)\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Return on Assets (ROA)\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9065",
+    "subject": "accounting",
+    "question": "What is an \"audit trail\"?",
+    "questionText": "What is an \"audit trail\"?",
+    "options": [
+      "A record of all transactions",
+      "A list of assets owned",
+      "A report on financial ratios",
+      "A summary of expenses"
+    ],
+    "correctAnswer": "A record of all transactions",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A record of all transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A record of all transactions\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9066",
+    "subject": "accounting",
+    "question": "What is meant by \"liquid assets\"?",
+    "questionText": "What is meant by \"liquid assets\"?",
+    "options": [
+      "Assets that can be quickly converted to cash",
+      "Assets that are non-tangible",
+      "Real estate investments",
+      "Assets with long-term value"
+    ],
+    "correctAnswer": "Assets that can be quickly converted to cash",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Assets that can be quickly converted to cash\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Assets that can be quickly converted to cash\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9067",
+    "subject": "accounting",
+    "question": "Which of the following is NOT considered a cash-equivalent?",
+    "questionText": "Which of the following is NOT considered a cash-equivalent?",
+    "options": [
+      "Treasury bills",
+      "Marketable securities",
+      "Inventory",
+      "Certificates of deposit"
+    ],
+    "correctAnswer": "Inventory",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Inventory\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Inventory\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9068",
+    "subject": "accounting",
+    "question": "What is a \"budget variance\"?",
+    "questionText": "What is a \"budget variance\"?",
+    "options": [
+      "The difference between budgeted and actual figures",
+      "A forecast for the next period",
+      "An expense calculation",
+      "A balance sheet entry"
+    ],
+    "correctAnswer": "The difference between budgeted and actual figures",
+    "correctAnswerIndex": 0,
+    "explanation": "\"The difference between budgeted and actual figures\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"The difference between budgeted and actual figures\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9069",
+    "subject": "accounting",
+    "question": "Which document summarizes changes in equity over a specific period?",
+    "questionText": "Which document summarizes changes in equity over a specific period?",
+    "options": [
+      "Income Statement",
+      "Balance Sheet",
+      "Statement of Owner’s Equity",
+      "Cash Flow Statement"
+    ],
+    "correctAnswer": "Statement of Owner’s Equity",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Statement of Owner’s Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Statement of Owner’s Equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9070",
+    "subject": "accounting",
+    "question": "What is \"financial statement analysis\"?",
+    "questionText": "What is \"financial statement analysis\"?",
+    "options": [
+      "Evaluating a company’s performance",
+      "Preparing tax returns",
+      "Managing budgets",
+      "Assessing internal controls"
+    ],
+    "correctAnswer": "Evaluating a company’s performance",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Evaluating a company’s performance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Evaluating a company’s performance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9071",
+    "subject": "accounting",
+    "question": "What is a \"negative cash flow\"?",
+    "questionText": "What is a \"negative cash flow\"?",
+    "options": [
+      "More cash outflows than inflows",
+      "Positive net income",
+      "Break-even point",
+      "High sales growth"
+    ],
+    "correctAnswer": "More cash outflows than inflows",
+    "correctAnswerIndex": 0,
+    "explanation": "\"More cash outflows than inflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"More cash outflows than inflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9072",
+    "subject": "accounting",
+    "question": "Which of the following is used for forecasting future revenues?",
+    "questionText": "Which of the following is used for forecasting future revenues?",
+    "options": [
+      "Historical data analysis",
+      "Cash flow statements",
+      "Balance sheet reports",
+      "Tax returns"
+    ],
+    "correctAnswer": "Historical data analysis",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Historical data analysis\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Historical data analysis\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9073",
+    "subject": "accounting",
+    "question": "Which accounting method records revenues when earned and expenses when incurred?",
+    "questionText": "Which accounting method records revenues when earned and expenses when incurred?",
+    "options": [
+      "Cash Basis Accounting",
+      "Accrual Basis Accounting",
+      "Modified Cash Basis Accounting",
+      "Hybrid Accounting"
+    ],
+    "correctAnswer": "Accrual Basis Accounting",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Accrual Basis Accounting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accrual Basis Accounting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9074",
+    "subject": "accounting",
+    "question": "What are \"non-operating expenses\"?",
+    "questionText": "What are \"non-operating expenses\"?",
+    "options": [
+      "Expenses not related to the core business operations",
+      "Direct labor costs",
+      "Inventory costs",
+      "Marketing expenses"
+    ],
+    "correctAnswer": "Expenses not related to the core business operations",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Expenses not related to the core business operations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Expenses not related to the core business operations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9075",
+    "subject": "accounting",
+    "question": "What is the financial ratio that compares net income to sales revenue?",
+    "questionText": "What is the financial ratio that compares net income to sales revenue?",
+    "options": [
+      "Return on Equity",
+      "Net Profit Margin",
+      "Gross Profit Margin",
+      "Return on Assets"
+    ],
+    "correctAnswer": "Net Profit Margin",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Net Profit Margin\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Net Profit Margin\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9076",
+    "subject": "accounting",
+    "question": "Which of the following represents a company’s financial health over a period?",
+    "questionText": "Which of the following represents a company’s financial health over a period?",
+    "options": [
+      "Income Statement",
+      "Trial Balance",
+      "Cash Flow Statement",
+      "Balance Sheet"
+    ],
+    "correctAnswer": "Income Statement",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Income Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Income Statement\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9077",
+    "subject": "accounting",
+    "question": "What is the effect of an overstatement of assets on the balance sheet?",
+    "questionText": "What is the effect of an overstatement of assets on the balance sheet?",
+    "options": [
+      "Increases equity",
+      "Decreases liabilities",
+      "Inflates financial position",
+      "Understates profit"
+    ],
+    "correctAnswer": "Inflates financial position",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Inflates financial position\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Inflates financial position\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9078",
+    "subject": "accounting",
+    "question": "Which of the following is NOT part of the cash flow statement?",
+    "questionText": "Which of the following is NOT part of the cash flow statement?",
+    "options": [
+      "Operating activities",
+      "Investing activities",
+      "Financing activities",
+      "Inventory activities"
+    ],
+    "correctAnswer": "Inventory activities",
+    "correctAnswerIndex": 3,
+    "explanation": "\"Inventory activities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Inventory activities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9079",
+    "subject": "accounting",
+    "question": "What does \"capital budgeting\" involve?",
+    "questionText": "What does \"capital budgeting\" involve?",
+    "options": [
+      "Planning investments in long-term assets",
+      "Managing current liabilities",
+      "Preparing daily cash flow statements",
+      "Calculating profits"
+    ],
+    "correctAnswer": "Planning investments in long-term assets",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Planning investments in long-term assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Planning investments in long-term assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9080",
+    "subject": "accounting",
+    "question": "How do you calculate gross profit?",
+    "questionText": "How do you calculate gross profit?",
+    "options": [
+      "Total Revenue - Cost of Goods Sold",
+      "Net Income + Total Expenses",
+      "Total Assets - Total Liabilities",
+      "Sales - Discounts"
+    ],
+    "correctAnswer": "Total Revenue - Cost of Goods Sold",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Total Revenue - Cost of Goods Sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Total Revenue - Cost of Goods Sold\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9081",
+    "subject": "accounting",
+    "question": "What is the purpose of the statement of cash flows?",
+    "questionText": "What is the purpose of the statement of cash flows?",
+    "options": [
+      "To provide information about cash receipts and payments",
+      "To summarize revenues and expenses",
+      "To report assets and liabilities",
+      "To evaluate the performance of the company"
+    ],
+    "correctAnswer": "To provide information about cash receipts and payments",
+    "correctAnswerIndex": 0,
+    "explanation": "\"To provide information about cash receipts and payments\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"To provide information about cash receipts and payments\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9082",
+    "subject": "accounting",
+    "question": "Which of the following is classified as a non-current asset?",
+    "questionText": "Which of the following is classified as a non-current asset?",
+    "options": [
+      "Inventory",
+      "Land",
+      "Accounts Receivable",
+      "Cash"
+    ],
+    "correctAnswer": "Land",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Land\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Land\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9083",
+    "subject": "accounting",
+    "question": "What does the term \"fiscal year\" mean?",
+    "questionText": "What does the term \"fiscal year\" mean?",
+    "options": [
+      "A period for financial reporting",
+      "A year based on calendar dates",
+      "A tax collection period",
+      "A production cycle"
+    ],
+    "correctAnswer": "A period for financial reporting",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A period for financial reporting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A period for financial reporting\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9084",
+    "subject": "accounting",
+    "question": "Which type of business organization limits owner liability?",
+    "questionText": "Which type of business organization limits owner liability?",
+    "options": [
+      "Sole proprietorship",
+      "General partnership",
+      "Corporation",
+      "Limited partnership"
+    ],
+    "correctAnswer": "Corporation",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Corporation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Corporation\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9085",
+    "subject": "accounting",
+    "question": "What is \"dividend\"?",
+    "questionText": "What is \"dividend\"?",
+    "options": [
+      "Portion of earnings distributed to shareholders",
+      "Interest on loans",
+      "Revenue from sales",
+      "Expense for operations"
+    ],
+    "correctAnswer": "Portion of earnings distributed to shareholders",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Portion of earnings distributed to shareholders\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Portion of earnings distributed to shareholders\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9086",
+    "subject": "accounting",
+    "question": "What does \"incurred expenses\" mean?",
+    "questionText": "What does \"incurred expenses\" mean?",
+    "options": [
+      "Expenses that have been billed",
+      "Expenses that are recognized even if not paid",
+      "Expenses that are payable",
+      "Expenses that haven’t yet occurred"
+    ],
+    "correctAnswer": "Expenses that are recognized even if not paid",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Expenses that are recognized even if not paid\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Expenses that are recognized even if not paid\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9087",
+    "subject": "accounting",
+    "question": "Which of the following accounts increases with a credit?",
+    "questionText": "Which of the following accounts increases with a credit?",
+    "options": [
+      "Liabilities",
+      "Expenses",
+      "Assets",
+      "Dividends"
+    ],
+    "correctAnswer": "Liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9088",
+    "subject": "accounting",
+    "question": "What does \"solvency\" refer to?",
+    "questionText": "What does \"solvency\" refer to?",
+    "options": [
+      "The ability to meet long-term obligations",
+      "The ability to cover short-term debts",
+      "Profitability",
+      "Liquidity"
+    ],
+    "correctAnswer": "The ability to meet long-term obligations",
+    "correctAnswerIndex": 0,
+    "explanation": "\"The ability to meet long-term obligations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"The ability to meet long-term obligations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9089",
+    "subject": "accounting",
+    "question": "What is \"prompt payment discount\"?",
+    "questionText": "What is \"prompt payment discount\"?",
+    "options": [
+      "A discount for paying bills early",
+      "A penalty for late payments",
+      "An annual financial review",
+      "A non-cash asset"
+    ],
+    "correctAnswer": "A discount for paying bills early",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A discount for paying bills early\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A discount for paying bills early\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9090",
+    "subject": "accounting",
+    "question": "What is included in operating activities in the cash flow statement?",
+    "questionText": "What is included in operating activities in the cash flow statement?",
+    "options": [
+      "Cash received from sales",
+      "Cash used for purchases",
+      "Cash expenses",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "correctAnswerIndex": 3,
+    "explanation": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9091",
+    "subject": "accounting",
+    "question": "What does \"perpetual inventory system\" refer to?",
+    "questionText": "What does \"perpetual inventory system\" refer to?",
+    "options": [
+      "Continuous record of inventory changes",
+      "Monthly accounting of inventory",
+      "Annual physical inventory count",
+      "A method of estimating stock"
+    ],
+    "correctAnswer": "Continuous record of inventory changes",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Continuous record of inventory changes\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Continuous record of inventory changes\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9092",
+    "subject": "accounting",
+    "question": "Which of the following is a head of revenue?",
+    "questionText": "Which of the following is a head of revenue?",
+    "options": [
+      "Sales revenue",
+      "Expenses",
+      "Liabilities",
+      "Assets"
+    ],
+    "correctAnswer": "Sales revenue",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Sales revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Sales revenue\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9093",
+    "subject": "accounting",
+    "question": "What is \"capital gain\"?",
+    "questionText": "What is \"capital gain\"?",
+    "options": [
+      "Profit from the sale of an asset",
+      "Loss from the sale of inventory",
+      "Interest earned",
+      "Dividends received"
+    ],
+    "correctAnswer": "Profit from the sale of an asset",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Profit from the sale of an asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Profit from the sale of an asset\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9094",
+    "subject": "accounting",
+    "question": "What does \"revenue recognition\" mean?",
+    "questionText": "What does \"revenue recognition\" mean?",
+    "options": [
+      "Recording revenue when earned",
+      "Recording all sales",
+      "Recording revenues based on cash receipts",
+      "None of the above"
+    ],
+    "correctAnswer": "Recording revenue when earned",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Recording revenue when earned\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Recording revenue when earned\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9095",
+    "subject": "accounting",
+    "question": "How is the \"debt-to-equity ratio\" calculated?",
+    "questionText": "How is the \"debt-to-equity ratio\" calculated?",
+    "options": [
+      "Total liabilities / Total equity",
+      "Total equity / Total assets",
+      "Total debts / Total assets",
+      "Total assets / Total liabilities"
+    ],
+    "correctAnswer": "Total liabilities / Total equity",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Total liabilities / Total equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Total liabilities / Total equity\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9096",
+    "subject": "accounting",
+    "question": "Which of the following is an operating expense?",
+    "questionText": "Which of the following is an operating expense?",
+    "options": [
+      "Cost of Goods Sold",
+      "Selling Expenses",
+      "Interest Expense",
+      "Income Tax Expense"
+    ],
+    "correctAnswer": "Selling Expenses",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Selling Expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Selling Expenses\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9097",
+    "subject": "accounting",
+    "question": "What is the difference between \"accounts payable\" and \"accounts receivable\"?",
+    "questionText": "What is the difference between \"accounts payable\" and \"accounts receivable\"?",
+    "options": [
+      "AP is money owed to suppliers, AR is money owed by customers",
+      "AP is a revenue account, AR is an expense account",
+      "AP represents income, AR represents costs",
+      "There is no difference"
+    ],
+    "correctAnswer": "AP is money owed to suppliers, AR is money owed by customers",
+    "correctAnswerIndex": 0,
+    "explanation": "\"AP is money owed to suppliers, AR is money owed by customers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"AP is money owed to suppliers, AR is money owed by customers\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9098",
+    "subject": "accounting",
+    "question": "What is \"financial accounting\" primarily focused on?",
+    "questionText": "What is \"financial accounting\" primarily focused on?",
+    "options": [
+      "Internal management processes",
+      "Preparing tax returns",
+      "External reporting of financial information",
+      "Cost analysis"
+    ],
+    "correctAnswer": "External reporting of financial information",
+    "correctAnswerIndex": 2,
+    "explanation": "\"External reporting of financial information\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"External reporting of financial information\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9099",
+    "subject": "accounting",
+    "question": "What is a \"pro forma\" financial statement?",
+    "questionText": "What is a \"pro forma\" financial statement?",
+    "options": [
+      "A financial statement based on projections",
+      "A historical financial statement",
+      "A tax return",
+      "An informal report"
+    ],
+    "correctAnswer": "A financial statement based on projections",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A financial statement based on projections\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A financial statement based on projections\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9100",
+    "subject": "accounting",
+    "question": "What does \"working capital\" measure?",
+    "questionText": "What does \"working capital\" measure?",
+    "options": [
+      "Short-term financial health",
+      "Long-term solvency",
+      "Profitability",
+      "Asset management"
+    ],
+    "correctAnswer": "Short-term financial health",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Short-term financial health\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Short-term financial health\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9101",
+    "subject": "accounting",
+    "question": "What is \"bad debt\"?",
+    "questionText": "What is \"bad debt\"?",
+    "options": [
+      "Accounts that are unlikely to be collected",
+      "Expenses incurred",
+      "Excess inventory",
+      "Loss on asset disposal"
+    ],
+    "correctAnswer": "Accounts that are unlikely to be collected",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Accounts that are unlikely to be collected\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Accounts that are unlikely to be collected\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9102",
+    "subject": "accounting",
+    "question": "Which of the following affects the equity section of a balance sheet?",
+    "questionText": "Which of the following affects the equity section of a balance sheet?",
+    "options": [
+      "Issuing new shares",
+      "Retaining earnings",
+      "Paying dividends",
+      "All of the above"
+    ],
+    "correctAnswer": "All of the above",
+    "correctAnswerIndex": 3,
+    "explanation": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"All of the above\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9103",
+    "subject": "accounting",
+    "question": "What is the primary focus of managerial accounting?",
+    "questionText": "What is the primary focus of managerial accounting?",
+    "options": [
+      "External reporting",
+      "Tax preparation",
+      "Internal management decision-making",
+      "General ledger maintenance"
+    ],
+    "correctAnswer": "Internal management decision-making",
+    "correctAnswerIndex": 2,
+    "explanation": "\"Internal management decision-making\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Internal management decision-making\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9104",
+    "subject": "accounting",
+    "question": "In accounting, \"currency conversion\" refers to?",
+    "questionText": "In accounting, \"currency conversion\" refers to?",
+    "options": [
+      "Translating financial statements into different currencies",
+      "Calculating exchange rates",
+      "Bank transactions",
+      "Currency revaluation"
+    ],
+    "correctAnswer": "Translating financial statements into different currencies",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Translating financial statements into different currencies\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Translating financial statements into different currencies\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9105",
+    "subject": "accounting",
+    "question": "How do you determine \"net cash flow\"?",
+    "questionText": "How do you determine \"net cash flow\"?",
+    "options": [
+      "Cash inflows - Cash outflows",
+      "Total revenue - Total liabilities",
+      "Equity - Assets",
+      "Liabilities + Assets"
+    ],
+    "correctAnswer": "Cash inflows - Cash outflows",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Cash inflows - Cash outflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Cash inflows - Cash outflows\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9106",
+    "subject": "accounting",
+    "question": "What are \"subsequent events\"?",
+    "questionText": "What are \"subsequent events\"?",
+    "options": [
+      "Events occurring after the reporting period but before the financial statements are issued",
+      "Events that lead to bankruptcy",
+      "Annual report events",
+      "Internal control deficiencies"
+    ],
+    "correctAnswer": "Events occurring after the reporting period but before the financial statements are issued",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Events occurring after the reporting period but before the financial statements are issued\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Events occurring after the reporting period but before the financial statements are issued\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9107",
+    "subject": "accounting",
+    "question": "What is \"revenue growth\"?",
+    "questionText": "What is \"revenue growth\"?",
+    "options": [
+      "Increase in sales revenue comparing periods",
+      "Decrease in expenses",
+      "Increase in net income",
+      "Total asset valuation"
+    ],
+    "correctAnswer": "Increase in sales revenue comparing periods",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Increase in sales revenue comparing periods\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Increase in sales revenue comparing periods\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9108",
+    "subject": "accounting",
+    "question": "Which of the following is an example of a budgetary control?",
+    "questionText": "Which of the following is an example of a budgetary control?",
+    "options": [
+      "Comparing actual results with budgeted figures",
+      "Preparing financial statements",
+      "Conducting audits",
+      "Calculating profit margins"
+    ],
+    "correctAnswer": "Comparing actual results with budgeted figures",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Comparing actual results with budgeted figures\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Comparing actual results with budgeted figures\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9109",
+    "subject": "accounting",
+    "question": "What is the main function of \"internal auditing\"?",
+    "questionText": "What is the main function of \"internal auditing\"?",
+    "options": [
+      "Analyzing financial statements for external reporting",
+      "Verifying compliance with policies and regulations",
+      "Preparing tax filings",
+      "Managing company investments"
+    ],
+    "correctAnswer": "Verifying compliance with policies and regulations",
+    "correctAnswerIndex": 1,
+    "explanation": "\"Verifying compliance with policies and regulations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Verifying compliance with policies and regulations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9110",
+    "subject": "accounting",
+    "question": "What does \"capital expenditures\" refer to?",
+    "questionText": "What does \"capital expenditures\" refer to?",
+    "options": [
+      "Money spent on fixed assets",
+      "Money spent on operational expenses",
+      "Money generated from sales",
+      "Current liabilities"
+    ],
+    "correctAnswer": "Money spent on fixed assets",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Money spent on fixed assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Money spent on fixed assets\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9111",
+    "subject": "accounting",
+    "question": "What is \"investment income\"?",
+    "questionText": "What is \"investment income\"?",
+    "options": [
+      "Earnings from assets invested",
+      "Taxes paid",
+      "Operating revenues",
+      "Operating expenses"
+    ],
+    "correctAnswer": "Earnings from assets invested",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Earnings from assets invested\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Earnings from assets invested\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9112",
+    "subject": "accounting",
+    "question": "What is \"net worth\"?",
+    "questionText": "What is \"net worth\"?",
+    "options": [
+      "Assets minus liabilities",
+      "Total revenue",
+      "Total equity",
+      "Gross profit"
+    ],
+    "correctAnswer": "Assets minus liabilities",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Assets minus liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Assets minus liabilities\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9113",
+    "subject": "accounting",
+    "question": "What does \"liquidity ratio\" measure?",
+    "questionText": "What does \"liquidity ratio\" measure?",
+    "options": [
+      "Ability to meet short-term obligations",
+      "Long-term financial stability",
+      "Profitability ratios",
+      "Efficiency in asset use"
+    ],
+    "correctAnswer": "Ability to meet short-term obligations",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Ability to meet short-term obligations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Ability to meet short-term obligations\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9114",
+    "subject": "accounting",
+    "question": "In financial analysis, what does \"trend analysis\" involve?",
+    "questionText": "In financial analysis, what does \"trend analysis\" involve?",
+    "options": [
+      "Evaluating historical data to identify patterns",
+      "Comparing budgets",
+      "Assessing risk factors",
+      "Preparing tax reports"
+    ],
+    "correctAnswer": "Evaluating historical data to identify patterns",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Evaluating historical data to identify patterns\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Evaluating historical data to identify patterns\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9115",
+    "subject": "accounting",
+    "question": "What does \"sales tax payable\" represent?",
+    "questionText": "What does \"sales tax payable\" represent?",
+    "options": [
+      "Liability owed to the government",
+      "Asset owned",
+      "Expense incurred",
+      "Revenue earned"
+    ],
+    "correctAnswer": "Liability owed to the government",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Liability owed to the government\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Liability owed to the government\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9116",
+    "subject": "accounting",
+    "question": "How is \"return on investment (ROI)\" calculated?",
+    "questionText": "How is \"return on investment (ROI)\" calculated?",
+    "options": [
+      "Net profit / Total investment",
+      "Net income / Total liabilities",
+      "Revenue / Expenses",
+      "Assets / Equity"
+    ],
+    "correctAnswer": "Net profit / Total investment",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Net profit / Total investment\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Net profit / Total investment\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9117",
+    "subject": "accounting",
+    "question": "What is a \"trial balance\"?",
+    "questionText": "What is a \"trial balance\"?",
+    "options": [
+      "A summary of all account balances",
+      "A financial statement",
+      "A cash flow statement",
+      "An income statement"
+    ],
+    "correctAnswer": "A summary of all account balances",
+    "correctAnswerIndex": 0,
+    "explanation": "\"A summary of all account balances\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"A summary of all account balances\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9118",
+    "subject": "accounting",
+    "question": "What does \"variance analysis\" evaluate?",
+    "questionText": "What does \"variance analysis\" evaluate?",
+    "options": [
+      "Differences between planned and actual performance",
+      "Asset depreciation",
+      "Revenue recognition",
+      "Cost allocation methods"
+    ],
+    "correctAnswer": "Differences between planned and actual performance",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Differences between planned and actual performance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Differences between planned and actual performance\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  },
+  {
+    "id": "accounting_9119",
+    "subject": "accounting",
+    "question": "What is \"revenue forecasting\"?",
+    "questionText": "What is \"revenue forecasting\"?",
+    "options": [
+      "Predicting future sales based on data",
+      "Calculating actual revenue",
+      "Preparing a cash flow statement",
+      "Writing an annual report"
+    ],
+    "correctAnswer": "Predicting future sales based on data",
+    "correctAnswerIndex": 0,
+    "explanation": "\"Predicting future sales based on data\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "solution": "\"Predicting future sales based on data\" is the correct option according to standard curriculum definitions and syllabus principles in ACCOUNTING.",
+    "year": "JAMB Standard"
+  }
+]

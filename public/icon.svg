@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#137547" />
+      <stop offset="100%" stop-color="#0a4d2e" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="12" flood-color="#000000" flood-opacity="0.25" />
+    </filter>
+  </defs>
+  
+  <!-- Background with rounded squircles -->
+  <rect width="512" height="512" rx="112" fill="url(#grad)" />
+  
+  <!-- Inner circular badge -->
+  <circle cx="256" cy="256" r="190" fill="#ffffff" fill-opacity="0.08" />
+  
+  <!-- Graduation / CBT Book & Checkmark Icon -->
+  <g filter="url(#shadow)" fill="#ffffff">
+    <!-- Graduation Cap / Diamond Top -->
+    <path d="M256 120 L390 185 L256 250 L122 185 Z" />
+    
+    <!-- Cap Base / Academic Board -->
+    <path d="M165 215 L165 290 Q256 345 347 290 L347 215 L256 260 Z" />
+    
+    <!-- Tassel -->
+    <path d="M375 195 L375 295 Q385 305 380 320" stroke="#ffd166" stroke-width="10" stroke-linecap="round" fill="none" />
+    <circle cx="380" cy="328" r="8" fill="#ffd166" />
+  </g>
+  
+  <!-- CBT Quiz Letter Badge -->
+  <text x="256" y="415" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="44" fill="#ffffff" text-anchor="middle" letter-spacing="4">
+    CBT QUIZ
+  </text>
+  
+  <!-- Gold Verified Star Accent -->
+  <path d="M256 325 L262 342 L280 342 L266 353 L271 370 L256 359 L241 370 L246 353 L232 342 L250 342 Z" fill="#ffd166" />
+</svg>

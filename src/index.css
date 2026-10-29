@@ -1,0 +1,174 @@
+@import "tailwindcss";
+
+/* -------------------------------------------------------------
+ * Brand Identity: Dominant White Background & Green Components
+ * ------------------------------------------------------------- */
+:root {
+  --brand-white: #ffffff;
+  --brand-green-50: #f0fdf4;
+  --brand-green-100: #dcfce7;
+  --brand-green-200: #bbf7d0;
+  --brand-green-500: #22c55e;
+  --brand-green-600: #16a34a;
+  --brand-green-700: #15803d;
+  --brand-green-800: #166534;
+  --brand-green-900: #14532d;
+  --brand-green-950: #052e16;
+}
+
+body {
+  background-color: #ffffff;
+  color: #1e293b;
+  font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+}
+
+/* -------------------------------------------------------------
+ * Scientific Typography & Rich HTML Formatting
+ * ------------------------------------------------------------- */
+.scientific-content sub,
+.scientific-content sup {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+.scientific-content sup {
+  top: -0.5em;
+  font-weight: 600;
+  color: var(--brand-green-800);
+}
+
+.scientific-content sub {
+  bottom: -0.25em;
+  font-weight: 600;
+  color: var(--brand-green-800);
+}
+
+/* Scientific Formula Box */
+.formula-box,
+.scientific-content .formula-box {
+  background-color: #ffffff;
+  border: 1.5px solid #86efac;
+  border-left-width: 6px;
+  border-left-color: #16a34a;
+  border-radius: 1rem;
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+.formula-title,
+.scientific-content .formula-title {
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #15803d;
+  margin-bottom: 0.5rem;
+}
+
+.formula-math,
+.scientific-content .formula-math {
+  font-size: 1.125rem;
+  font-family: Georgia, serif;
+  color: #052e16;
+  text-align: center;
+  padding: 0.5rem 0;
+  overflow-x: auto;
+}
+
+/* Chemical Equation Display */
+.chemical-equation,
+.scientific-content .chemical-equation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #064e3b;
+  background-color: #f0fdf4;
+  border: 1px solid #bbf7d0;
+  padding: 0.875rem 1.25rem;
+  border-radius: 0.75rem;
+  margin: 1.25rem 0;
+  overflow-x: auto;
+}
+
+/* Educational Tip / Exam Shortcut Callout */
+.exam-tip,
+.scientific-content .exam-tip {
+  background-color: #f0fdf4;
+  border: 1px solid #86efac;
+  border-radius: 1rem;
+  padding: 1.25rem;
+  margin: 1.5rem 0;
+}
+
+.exam-tip-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 0.8125rem;
+  font-weight: 700;
+  color: #166534;
+  margin-bottom: 0.5rem;
+}
+
+/* Scientific Table Styling */
+.scientific-table,
+.scientific-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  border-radius: 0.75rem;
+  overflow: hidden;
+  border: 1px solid #bbf7d0;
+  background-color: #ffffff;
+  margin: 1.5rem 0;
+}
+
+.scientific-table th,
+.scientific-content th {
+  background-color: #f0fdf4;
+  color: #14532d;
+  font-weight: 700;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.75rem 1rem;
+  border-bottom: 2px solid #86efac;
+}
+
+.scientific-table td,
+.scientific-content td {
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid #dcfce7;
+  color: #334155;
+  font-size: 0.875rem;
+}
+
+.scientific-table tr:last-child td,
+.scientific-content tr:last-child td {
+  border-bottom: none;
+}
+
+.scientific-table tr:nth-child(even),
+.scientific-content tr:nth-child(even) {
+  background-color: #fafdfb;
+}
+
+.scientific-table tr:hover,
+.scientific-content tr:hover {
+  background-color: #f0fdf4;
+}
+
+/* KaTeX custom responsive wrap */
+.katex-display {
+  margin: 0.5em 0 !important;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding: 0.25rem 0;
+}
